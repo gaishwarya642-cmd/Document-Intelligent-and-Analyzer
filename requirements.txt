@@ -1,0 +1,10 @@
+streamlit
+langchain
+langchain-google-genai
+python-dotenv
+google-generativeai
+Pillow
+PyPDF2
+PyMuPDF
+pytesseract
+gTTS
